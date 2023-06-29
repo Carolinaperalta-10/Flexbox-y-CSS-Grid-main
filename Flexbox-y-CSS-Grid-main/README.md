@@ -12,7 +12,7 @@ HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los dí
 En este proyecto, con los conocimientos de HTML y CSS realicé el menú de una pizzeria.
 
 ## 2. Objetivos del proyecto 
-Aprender a utlizar las herramientas que flexbox y gris otorgan.
+Aprender a utlizar las herramientas que flexbox y Grid otorgan.
 
 ## 3. Link a demo
 Aquí puedes visualizar mi proyecto terminado: [ Flexbox y CSS grid main ](https://lambent-baklava-32ebc1.netlify.app/)
